@@ -538,3 +538,18 @@ Query 3 — Salary condition
 
 <img width="806" height="228" alt="Screenshot 2025-12-09 at 12 17 59 AM" src="https://github.com/user-attachments/assets/33e8692e-3441-4e40-9b3a-c3ed9ce711cf" />
 
+
+Check example through — Postman
+
+Method: POST
+
+URL:
+
+        https://fk7pa3ljwyz3yb2u5zgox7jzhm0fijgp.lambda-url.us-east-1.on.aws/
+
+
+Body → Raw → JSON:
+
+        {"sql": "SELECT * FROM employees"}
+
+![WhatsApp Image 2025-12-09 at 00 55 10](https://github.com/user-attachments/assets/fc5f296c-00f9-457d-bbc2-24e1d6bad58b)
