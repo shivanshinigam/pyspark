@@ -1,4 +1,4 @@
-
+File to exact commands to run on terminal - https://drive.google.com/file/d/1G8sO6h76nfZkk3Wp8hBVHg8RM2RvPv8K/view?usp=drivesdk
 # AWS Lambda — Three Staged Tasks Report
 
 ## 📌 Task 1 — Create a Hello-World AWS Lambda Function With a Dynamic Placeholder (Name Parameter)
